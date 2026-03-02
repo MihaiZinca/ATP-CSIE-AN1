@@ -1,0 +1,107 @@
+﻿  t.c
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(13,5): error C2065: 'stud': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(13,10): error C2146: syntax error: missing ';' before identifier 'student'
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(13,10): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(25,26): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(25,34): error C2224: left of '.nrmatricol' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(25,19): warning C4473: 'scanf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(25,19):
+      placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(25,19):
+      the missing variadic argument 1 is required by format string '%d'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(28,25): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(28,33): error C2224: left of '.nume' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(28,19): warning C4473: 'scanf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(28,19):
+      placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(28,19):
+      the missing variadic argument 1 is required by format string '%s'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(31,25): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(31,33): error C2224: left of '.prenume' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(31,19): warning C4473: 'scanf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(31,19):
+      placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(31,19):
+      the missing variadic argument 1 is required by format string '%s'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(34,26): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(34,34): error C2224: left of '.anul' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(34,19): warning C4473: 'scanf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(34,19):
+      placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(34,19):
+      the missing variadic argument 1 is required by format string '%d'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(37,26): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(37,34): error C2224: left of '.grupa' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(37,19): warning C4473: 'scanf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(37,19):
+      placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(37,19):
+      the missing variadic argument 1 is required by format string '%d'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(41,30): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(41,38): error C2224: left of '.note' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(41,23): warning C4473: 'scanf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(41,23):
+      placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(41,23):
+      the missing variadic argument 1 is required by format string '%f'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,42): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,50): error C2224: left of '.nrmatricol' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,62): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,70): error C2224: left of '.nume' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,76): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,84): error C2224: left of '.prenume' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,93): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,101): error C2224: left of '.anul' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,107): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,115): error C2224: left of '.grupa' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,24): warning C4473: 'fprintf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,24):
+      placeholders and their parameters expect 5 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(43,24):
+      the missing variadic argument 1 is required by format string '%d'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(45,37): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(45,45): error C2224: left of '.note' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(45,28): warning C4473: 'fprintf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(45,28):
+      placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(45,28):
+      the missing variadic argument 1 is required by format string '%.2f'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(61,5): error C2065: 'stud': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(61,10): error C2146: syntax error: missing ';' before identifier 'student'
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(61,10): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,46): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,54): error C2224: left of '.nrmatricol' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,66): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,74): error C2224: left of '.nume' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,80): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,88): error C2224: left of '.prenume' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,98): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,106): error C2224: left of '.anul' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,113): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,121): error C2224: left of '.grupa' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,27): warning C4473: 'fscanf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,27):
+      placeholders and their parameters expect 5 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(68,27):
+      the missing variadic argument 1 is required by format string '%d'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(74,35): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(74,43): error C2224: left of '.note' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(74,28): warning C4473: 'fscanf' : not enough arguments passed for format string
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(74,28):
+      placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+      E:\Facultate\An 1 Sem 2\ATP\t\t.c(74,28):
+      the missing variadic argument 1 is required by format string '%f'
+  
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(75,21): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(75,29): error C2224: left of '.note' must have struct/union type
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(76,27): error C2065: 'student': undeclared identifier
+E:\Facultate\An 1 Sem 2\ATP\t\t.c(76,35): error C2224: left of '.note' must have struct/union type
